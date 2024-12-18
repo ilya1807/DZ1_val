@@ -28,6 +28,7 @@ def create_html(valutes):
         text += '</tr>'
 
     text += '</table>'
+
     return text
 
 
